@@ -1,5 +1,5 @@
 # Equinoxs
----
+
 ## Current status
 - 🔴️ Equinoxs.ga : Main website &rarr; Equinoxs.GitHub.io
 - 🟢️ Equinoxs.GitHub.io : status info
