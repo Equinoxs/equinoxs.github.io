@@ -1,5 +1,4 @@
 ## Current status
-- 🔴️ Equinoxs.ga : Main website &rarr; Equinoxs.GitHub.io
+- 🔴️ Equinoxs.ga : **OLD** Main website, permanently down
 - 🟢️ Equinoxs.GitHub.io : status info
-
-The Equinoxs.ga website is temporarily down and should be back soon.
+- 🟢 Equinoxs.systems : 🆕 main website
